@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Golysheva-v-25</string>
+    <string name="user">Логин:User</string>
+    <string name="kab">Личный кабинет</string>
+    <string name="vklUv">Включить уведомления</string>
+    <string name="priyam">Показывать только прямые перелёты</string>
+    <string name="vigod">Предлагать выгодные условия</string>
 </resources>
